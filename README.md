@@ -68,9 +68,9 @@ To begin my career as a **QA Manual Tester**, contributing to software quality w
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/shreya-arya-45472228b" target="_blank"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/97a2157a-78fe-4140-af73-e7bc303a256c" />
-</a> |
-<a href="aryashreya2504@gmail.com"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/eca1ff8a-7bbf-4af3-ae65-195cb559c099" />
+<a href="https://linkedin.com/in/shreya-arya-45472228b" target="_blank"><img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/97a2157a-78fe-4140-af73-e7bc303a256c" />
+</a> 
+<a href="aryashreya2504@gmail.com"><img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/eca1ff8a-7bbf-4af3-ae65-195cb559c099" />
  </a>
 </p>
 
