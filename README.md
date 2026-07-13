@@ -48,8 +48,8 @@
 - 🗂 GitHub (Documentation & Projects)  
 - 🧪 JIRA   
 - 🧩 SQL  
-- 🌐 HTML, CSS & JAVASCRIPT
-- 📄 C++, PYTHON, JAVA(Basics)
+- 🌐 HTML, CSS 
+- 📄 JAVA, PYTHON(basics)
 
 ---
 
