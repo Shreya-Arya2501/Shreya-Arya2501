@@ -9,7 +9,7 @@
 ---
 
 ## 🌸 About Me
-- 🧪 Beginner **QA Manual Tester**
+- 🧪 **QA Manual Tester**
 - 📋 Skilled in **Test Case & Test Scenario Writing**
 - 🔍 Strong understanding of **SDLC & STLC**
 - 🐞 Experience with **bug identification & reporting**
